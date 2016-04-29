@@ -1,0 +1,13 @@
+<config>
+	<dir>W:\Television</dir>
+	<newdir>W:\Television</newdir>
+	<authentication>True</authentication>
+	<webuser>administrator</webuser>
+	<webpass>17140007</webpass>
+	<server>localhost:8129</server>
+	<ignore>College Football</ignore>
+	<smartskipwait>True</smartskipwait>
+	<showsqueezewait>False</showsqueezewait>
+	<showsqueezedir>W:\Television</showsqueezedir>
+	<showsqueezeformat>avi</showsqueezeformat>
+</config>
